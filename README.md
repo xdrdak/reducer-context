@@ -2,6 +2,10 @@
 
 Simple state management using pretty much only the React context and a hook.
 
+```
+npm i reducer-context
+```
+
 ## Why?
 
 This is a pattern I regularly use that works for most of my use cases for quick and dirty projects.
